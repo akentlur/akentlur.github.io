@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akentlur.github.io/sitemap
+Sitemap: https://akentlur.github.io/app/sitemap
+Sitemap: https://akentlur.github.io/assets/sitemap
+Sitemap: https://akentlur.github.io/css/sitemap
+Sitemap: https://akentlur.github.io/includes/sitemap
+Sitemap: https://akentlur.github.io/item/sitemap
+Sitemap: https://akentlur.github.io/src/sitemap
